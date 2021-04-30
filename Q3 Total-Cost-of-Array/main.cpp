@@ -17,8 +17,6 @@ int main() {
     std::cout << array[i] << std::endl;
   }
 
-  //int * filled = CreateArray();
-  //std::cout << "end of elements" << std::endl;
 
   int sum = 0;
 
