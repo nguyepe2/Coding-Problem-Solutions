@@ -17,3 +17,8 @@ Question 3 prompt:
 
 Question 4 prompt:
 ![](https://github.com/nguyepe2/Interview-Solutions/blob/015a3b583e2d10cb1fad95bbed09243e2d2d0de4/Question%20Prompts/q4.PNG)
+
+<br> 
+
+Question 5 prompt:
+![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/57332990bba717efe6b60267fe794be433db02b8/Question%20Prompts/q5.PNG)
