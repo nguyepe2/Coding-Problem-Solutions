@@ -1,4 +1,4 @@
-# Interview Solutions
+# Coding Problem Prompts
 
 Question 1 prompt:
 ![](https://github.com/nguyepe2/Interview-Solutions/blob/015a3b583e2d10cb1fad95bbed09243e2d2d0de4/Question%20Prompts/q1.PNG)
