@@ -22,3 +22,8 @@ Question 4 prompt:
 
 Question 5 prompt:
 ![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/57332990bba717efe6b60267fe794be433db02b8/Question%20Prompts/q5.PNG)
+
+<br> 
+
+Question 6 prompt:
+![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/63f7d4bd09c21284a5f31dd847d49c3c4500ad78/Question%20Prompts/q6.JPG)
