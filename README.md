@@ -27,3 +27,8 @@ Two Strings prompt:
 
 Triplets prompt:
 ![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/63f7d4bd09c21284a5f31dd847d49c3c4500ad78/Question%20Prompts/q6.JPG)
+
+<br> 
+
+Efficient Janitor prompt:
+![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/adb38701dd5f9f50130c31025fb2ab6b522655f4/Question%20Prompts/Efficient%20Janitor%20Prompt.PNG)
