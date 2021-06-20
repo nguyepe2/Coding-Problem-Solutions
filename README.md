@@ -26,7 +26,7 @@ Two Strings prompt:
 <br> 
 
 Triplets prompt:
-![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/63f7d4bd09c21284a5f31dd847d49c3c4500ad78/Question%20Prompts/q6.JPG)
+<img src = "https://github.com/nguyepe2/Coding-Problem-Solutions/blob/63f7d4bd09c21284a5f31dd847d49c3c4500ad78/Question%20Prompts/q6.JPG" width = 1000>
 
 <br> 
 
