@@ -32,3 +32,8 @@ Triplets prompt:
 
 Efficient Janitor prompt:
 ![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/adb38701dd5f9f50130c31025fb2ab6b522655f4/Question%20Prompts/Efficient%20Janitor%20Prompt.PNG)
+
+<br> 
+
+Univesity Career Fair prompt:
+![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/661350cd82bc15806a7af3c00edc989ac120e513/Question%20Prompts/University%20Career%20Fair%20Prompt.PNG)
