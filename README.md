@@ -37,3 +37,8 @@ Efficient Janitor prompt:
 
 Univesity Career Fair prompt:
 ![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/661350cd82bc15806a7af3c00edc989ac120e513/Question%20Prompts/University%20Career%20Fair%20Prompt.PNG)
+
+<br> 
+
+Most Common Fraction prompt:
+![](https://github.com/nguyepe2/Coding-Problem-Solutions/blob/a15d2d9b24807c9548970d17d1648a1ffa3ab54f/Question%20Prompts/Most%20Common%20Fraction%20prompt.PNG)
